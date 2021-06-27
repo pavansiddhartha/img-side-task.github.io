@@ -27,7 +27,7 @@
 
 .stretch {
   width: 600px;
-  transition: width 2s;
+  transition: width 1s;
 }
 .compress {
   width: 80px;
