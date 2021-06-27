@@ -11,11 +11,8 @@
 }
 .heading {
   text-align: center;
-  text-decoration: underline;
-  text-underline-offset: 5px;
   font-size: 50px;
-  line-height: 60px;
-  text-decoration-color: #5d5d5d;
+  color: #34568b;
 }
 
 .img-box {
@@ -30,6 +27,7 @@
 
 .stretch {
   width: 600px;
+  transition: width 2s;
 }
 .compress {
   width: 80px;
